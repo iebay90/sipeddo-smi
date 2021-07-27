@@ -4,7 +4,7 @@ description: >-
   2021
 ---
 
-# Penyaluran DD Tahap II
+# Update Penting - Penyaluran DD Tahap II
 
 ## **Login Ke Aplikasi Sipeddo**
 
@@ -40,11 +40,10 @@ di Alamat :   : [http://sipeddo-sukabumikab.simdacloud.id/](http://sipeddo-sukab
 * Jika semua Tahapan selesai, silahkan chek ulang, apakah berkas sudah terUpload semua ke dalam Aplikasi SIPEDDO, 
 * jika belum "Choose File" ke Berkas yang belum di Upload.
 
-### CATATAN Pengajuan
+### CATATAN PENGAJUAN
 
-* Untuk Admin Sipedo Silahkan Hubungi sdr Sidiq Mulki : 0815-6355-9604
 * Untuk Laporan Penyerapan dan Capaian Output Tahap I Tahun 2021 silahkan meminta laporan yang bersumber dari omspan ke Admin Sipedo.
-* Untuk Laporan Realisasi dan Capaian Output Tahun 2020 silahkan cetak melalui Aplikasi Siskeudes Tahun 2020.
+* Untuk Laporan Realisasi dan Capaian Output Tahun 2020 silahkan meminta laporan yang bersumber dari omspan ke Admin Sipedo.
 * Bagi Pemerintah Desa Dengan Status Pengajuan Reguler dan Mandiri, yang menganggarkan BLT Tahun 2020 selama 9 bulan silahkan langsung masuk ke menu pengajuan.
 * Bagi Pemerintah Desa Dengan Status Desa Mandiri, untuk tahap II di tambah Persyaratan Laporan Konvergensi Stunting Tahun 2020.
 
