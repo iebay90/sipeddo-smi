@@ -21,7 +21,7 @@ di Alamat :   : [http://sipeddo-sukabumikab.simdacloud.id/](http://sipeddo-sukab
 ![](.gitbook/assets/screen-shot-2021-09-30-at-11.06.56.png)
 
 * Jika muncul notifikasi seperti gambar diatas, segera konfirmasi kepada admin;
-* Admin akan **mengcek** apakah Perkades yang telah di Upload tersebut sudah sesuai dengan ketentuan.
+* Admin akan **mengcek** apakah Laporan Realisasi Capaian Output dan Laporan Realisasi Penyaluran BLT yang telah di Upload tersebut sudah sesuai.
 
 ## Apabila Sudah Di Setujui dan Dokumen yang di Upload Sesuai, proses selanjutnya seperti gambar yang dibawah
 
@@ -33,8 +33,7 @@ di Alamat :   : [http://sipeddo-sukabumikab.simdacloud.id/](http://sipeddo-sukab
 ### CATATAN PENGAJUAN
 
 * Untuk Laporan Penyerapan dan Capaian Output Sampai Dengan Tahap II Tahun 2021 silahkan meminta laporan yang bersumber dari omspan ke Admin Sipedo.
-* Untuk Laporan Konvergensi Stunting Silahkan Meminta Laporan kepada Kasi 
-* **No Wa : +62852-1712-0971** 
+* Untuk Laporan Konvergensi Stunting Silahkan Meminta Laporan **Ke No Wa : +62852-1712-0971 \(Sdr. Pak Iman \)**
 
 
 
