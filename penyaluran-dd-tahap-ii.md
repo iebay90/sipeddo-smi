@@ -33,7 +33,7 @@ di Alamat :   : [http://sipeddo-sukabumikab.simdacloud.id/](http://sipeddo-sukab
 ### CATATAN PENGAJUAN
 
 * Untuk Laporan Penyerapan dan Capaian Output Sampai Dengan Tahap II Tahun 2021 silahkan meminta laporan yang bersumber dari omspan ke Admin Sipedo.
-* Untuk Laporan Konvergensi Stunting Silahkan Meminta Laporan **Ke No Wa : +62852-1712-0971 \(Sdr. Pak Iman \)**
+* Untuk Laporan Konvergensi Stunting Silahkan Meminta Laporan **Ke No Wa : +62852-1712-0971 \(Sdr. Pak Iman \) \(Kasi Pengembangan Pelayananan Sosial Dasar\)**
 
 
 
