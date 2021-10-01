@@ -6,6 +6,10 @@ description: >-
 
 # Penyaluran DD Tahap III
 
+## ALUR PENYALURAN
+
+![Silahkan Klik Untuk Perbesar](.gitbook/assets/alur-penyaluran-tahap-iii.jpg)
+
 ## **Login Ke Aplikasi Sipeddo**
 
 di Alamat :   : [http://sipeddo-sukabumikab.simdacloud.id/](http://sipeddo-sukabumikab.simdacloud.id/)
